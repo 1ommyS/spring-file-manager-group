@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    credentials:
+      access-key: newAccessKey
+      secret-key: newSecretKey
+      server-url: localhost:8020
+    region:
+      static: us-west-2
+    stack:
+      auto: false
